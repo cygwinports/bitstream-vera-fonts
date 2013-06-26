@@ -1,5 +1,0 @@
-category: X11
-requires: fontconfig mkfontdir mkfontscale
-sdesc: "Bitstream Vera font family"
-ldesc: "The Bitstream Vera fonts (http://gnome.org/fonts/)."
- 
